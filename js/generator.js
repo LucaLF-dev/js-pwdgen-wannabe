@@ -9,10 +9,15 @@ console.log(userName)
 
 // - Chiedere il suo cognome:
 //   - dichiarare una variabile 
+let userSurname
 //   - assegnare alla variabile il valore restituito dal prompt sul cognome
+userSurname = prompt(' qual è il tuo cognome?')
+console.log(userSurname) 
 // - Chiedere il suo colore preferito:
 //   - dichiarare una variabile 
+
 //   - assegnare alla variabile il valore restituito dal prompt sul colore
+
 // - Concatenare il nome , il cognome, il colore preferito dell' utente e il numero 21:
 //   - dichiarare una variabile cho contiene la prima parte della password
 //   - dichiarare una variabile cho contiene la seconda parte della password
