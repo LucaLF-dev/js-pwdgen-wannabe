@@ -11,7 +11,7 @@ console.log(userName)
 //   - dichiarare una variabile 
 let userSurname
 //   - assegnare alla variabile il valore restituito dal prompt sul cognome
-userSurname = prompt(' qual è il tuo cognome?')
+userSurname = prompt(' qual è il tuo cognome (scrivilo senza spaziature)?')
 console.log(userSurname) 
 // - Chiedere il suo colore preferito:
 //   - dichiarare una variabile 
@@ -21,7 +21,11 @@ userFavoriteColor = prompt('Qual è il tuo colore preferito?')
 console.log(userFavoriteColor)
 // - Concatenare il nome , il cognome, il colore preferito dell' utente e il numero 21:
 //   - dichiarare una variabile cho contiene la quarta parte della password
+let fourthPartOfPassword = '21'
+console.log(fourthPartOfPassword)
 //   - dichiarare una variabile password dove concateniamo le tre stringhe ed il numero 21
+let password = userName + userSurname + userFavoriteColor + fourthPartOfPassword
+console.log(password)
 // - Scrivere sulla pagina il risultato della concatenazione: nomecognomecolorepreferito21
 //   - inserire nell' html un tag con id="password"
 //   - recuperare con js l' elemento del Dom con id="password"
