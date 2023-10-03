@@ -10,9 +10,6 @@
   - dichiarare una variabile 
   - assegnare alla variabile il valore restituito dal prompt sul colore
 - Concatenare il nome , il cognome, il colore preferito dell' utente e il numero 21:
-  - dichiarare una variabile cho contiene la prima parte della password
-  - dichiarare una variabile cho contiene la seconda parte della password
-  - dichiarare una variabile cho contiene la terza parte della password
   - dichiarare una variabile cho contiene la quarta parte della password
   - dichiarare una variabile password dove concateniamo le tre stringhe ed il numero 21
 - Scrivere sulla pagina il risultato della concatenazione: nomecognomecolorepreferito21
