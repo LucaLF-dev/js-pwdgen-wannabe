@@ -9,10 +9,11 @@ console.log(userName);
 
 // - Chiedere il suo cognome:
 //   - dichiarare una variabile 
-let userSurname
+let userSurname;
 //   - assegnare alla variabile il valore restituito dal prompt sul cognome
 userSurname = prompt(' qual è il tuo cognome (scrivilo senza spaziature)?');
 console.log(userSurname); 
+
 // - Chiedere il suo colore preferito:
 //   - dichiarare una variabile 
 let userFavoriteColor;
