@@ -32,3 +32,4 @@ console.log(password)
 const passwordDomElement = document.getElementById('password')
 console.dir(passwordDomElement)
 //   - modificare l ' innerHTML del tag con il valore della variabile password 
+passwordDomElement.innerHTML = password
