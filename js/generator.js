@@ -29,4 +29,6 @@ console.log(password)
 // - Scrivere sulla pagina il risultato della concatenazione: nomecognomecolorepreferito21
 //   - inserire nell' html un tag con id="password"
 //   - recuperare con js l' elemento del Dom con id="password"
+const passwordDomElement = document.getElementById('password')
+console.dir(passwordDomElement)
 //   - modificare l ' innerHTML del tag con il valore della variabile password 
